@@ -1,0 +1,23 @@
+body{
+    background-image: url("mountain2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mybio{
+    line-height: 2;
+    color:white
+}
+
+h2{
+    color: white
+}
+
+.card {
+    background-color: black;
+    border: cadetblue;
+    color: white;
+}
+footer{
+    text-align: center;
+}
